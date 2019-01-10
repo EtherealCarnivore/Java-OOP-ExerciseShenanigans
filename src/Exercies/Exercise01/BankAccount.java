@@ -1,5 +1,7 @@
-package Exercies;
+package Exercies.Exercise01;
 
+
+//Exercise 01 solution
 public class BankAccount {
     private int accountNumber;
     private double balance;

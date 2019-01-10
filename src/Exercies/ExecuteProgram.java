@@ -1,15 +1,27 @@
 package Exercies;
 
+import Exercies.Exercise01.BankAccount;
+import Exercies.Exercise02.VipCustomer;
+import Exercies.Exercise03.SpecificCar;
+
 public class ExecuteProgram {
     public static void main(String[] args) {
-        BankAccount poorBitch = new BankAccount();
+//        BankAccount poorBitch = new BankAccount();
+//
+//        poorBitch.Deposit(20);
+//
+//        poorBitch.Withdrawl(60);
+//
+//        VipCustomer customer = new VipCustomer();
+//
+//        System.out.println(customer.getName());
 
-        poorBitch.Deposit(20);
+        SpecificCar car = new SpecificCar("LamboBABY");
 
-        poorBitch.Withdrawl(60);
+        car.ChangeGears(10);
+        car.ChangeSpeed(-20);
+        car.HandSteer();
 
-        VipCustomer customer = new VipCustomer();
 
-        System.out.println(customer.getName());
     }
 }

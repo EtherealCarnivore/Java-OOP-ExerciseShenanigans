@@ -1,9 +1,11 @@
-package Exercies;
+package Exercies.Exercise02;
+//Exercise 02 solution
 
 public class VipCustomer {
     private String name = "default";
     private int creditLimit = 10;
     private String email = "email";
+
 
     public VipCustomer() {
         this.name = getName();
