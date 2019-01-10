@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0afe7d1-19fe-45a6-abd2-ce3e645ec78d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercies/Exercise03/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercies/Exercise03/SpecificCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercies/Exercise03/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/01.lecture-37-challenge.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/02.lecture-38-challenge.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercies/Exercise01/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/ExecuteProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercies/ExecuteProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercies/Exercise02/VipCustomer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -237,7 +227,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547133252640" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547133858343" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -355,12 +345,12 @@
       <workItem from="1547055795604" duration="1371000" />
       <workItem from="1547057535240" duration="1118000" />
       <workItem from="1547060741904" duration="1859000" />
-      <workItem from="1547131845304" duration="1408000" />
+      <workItem from="1547131845304" duration="2010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14271000" />
+    <option name="totallyTimeSpent" value="14873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1438" y="98" width="1924" height="1082" extended-state="6" />
