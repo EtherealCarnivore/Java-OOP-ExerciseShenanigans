@@ -4,6 +4,7 @@ import Exercises.Exercise04.Composition.Furniture;
 import Exercises.Exercise04.Composition.Plants;
 import Exercises.Exercise04.Composition.Room;
 import Exercises.Exercise04.Composition.Windows;
+import Exercises.Exercise05Encapsulation.Printer;
 
 public class ExecuteProgram {
     public static void main(String[] args) {
@@ -23,19 +24,31 @@ public class ExecuteProgram {
 //        car.ChangeSpeed(-20);
 //        car.HandSteer();
 
-        Furniture mirela = new Furniture("armchair", 1, "black");
-        Plants orhid = new Plants("orhid", 2);
-        Windows krugli = new Windows("krugli", 1);
+//        Furniture mirela = new Furniture("armchair", 1, "black");
+//        Plants orhid = new Plants("orhid", 2);
+//        Windows krugli = new Windows("krugli", 1);
+//
+//        Room hola = new Room(mirela, krugli, orhid);
+//
+//        hola.getPlants().PrintPlant("miri");
+//
+//        hola.getPlants().PrintPlant("asd");
+//
+//        hola.Access();
+//
+//        hola.poleiGoPap();
 
-        Room hola = new Room(mirela, krugli, orhid);
+        Printer philipsBate = new Printer(50, false);
 
-        hola.getPlants().PrintPlant("miri");
+        philipsBate.AddToner(50);
 
-        hola.getPlants().PrintPlant("asd");
+        philipsBate.Print(10);
 
-        hola.Access();
+        Printer hpBate = new Printer(101, true);
 
-        hola.poleiGoPap();
+        hpBate.getTonerLevel();
+
+        hpBate.Print(10);
 
 
 
