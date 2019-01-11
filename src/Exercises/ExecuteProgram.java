@@ -1,10 +1,7 @@
 package Exercises;
 
-import Exercises.Exercise04.Composition.Furniture;
-import Exercises.Exercise04.Composition.Plants;
-import Exercises.Exercise04.Composition.Room;
-import Exercises.Exercise04.Composition.Windows;
-import Exercises.Exercise05Encapsulation.Printer;
+import Exercises.Exercise06Polymorphism.Renault;
+import Exercises.Exercise06Polymorphism.Suzuki;
 
 public class ExecuteProgram {
     public static void main(String[] args) {
@@ -38,17 +35,46 @@ public class ExecuteProgram {
 //
 //        hola.poleiGoPap();
 
-        Printer philipsBate = new Printer(50, false);
+//        Printer philips= new Printer(50, false);
+//
+//        philips.AddToner(50);
+//
+//        philips.Print(10);
+//
+//        Printer hp = new Printer(101, true);
+//
+//        hp.getTonerLevel();
+//
+//        hp.Print(10);
 
-        philipsBate.AddToner(50);
 
-        philipsBate.Print(10);
 
-        Printer hpBate = new Printer(101, true);
+        Suzuki maruti = new Suzuki(6, "Maruti");
 
-        hpBate.getTonerLevel();
+        maruti.startEngine();
 
-        hpBate.Print(10);
+        maruti.accelerate();
+
+        maruti.brake();
+
+        System.out.println("Number of wheels " + maruti.getWheels() + " of the " + maruti.getModel());
+
+        System.out.println(maruti.isEngine() ? "The " + maruti.getModel() + " has an engine" : "Now.. where did you put that engine? God damn it, NIKOLA, god damn it.");
+
+        Renault clio = new Renault(2, "clio");
+
+        clio.startEngine();
+
+        clio.accelerate();
+
+        System.out.println("Number of wheels " + clio.getWheels() + " of the " + clio.getModel());
+
+        System.out.println(clio.isEngine() ? "The " + clio.getModel() +  " has an engine" : "Now.. where did you put that engine? God damn it, Karen, god damn it.");
+
+
+
+
+
 
 
 

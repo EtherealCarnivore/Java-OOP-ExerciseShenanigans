@@ -26,7 +26,7 @@ public class Classes {
 //                lamborgini.getModel()
 //        );
 
-//        Car.staticPrint();
+//        CarGeneric.staticPrint();
 
 //            car.primerZaKoceto();
 //            lamborgini.primerZaKoceto();
