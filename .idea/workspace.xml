@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0afe7d1-19fe-45a6-abd2-ce3e645ec78d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/carnivore.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercies/Exercise04/Composition/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercies/Exercise04/Composition/Plants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercies/Exercise04/Composition/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercies/Exercise04/Composition/Windows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/koceto_project/Exercies/ExecuteProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/koceto_project/Exercies/ExecuteProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/koceto_project/Exercies/Exercise03/SpecificCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/koceto_project/Exercies/Exercise03/SpecificCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/koceto_project/Exercies/Exercise03/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/koceto_project/Exercies/Exercise03/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/koceto_project/Exercies/ExercisesTxt/01.lecture-37-challenge.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/koceto_project/Exercies/ExercisesTxt/02.lecture-38-challenge.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/koceto_project/Exercies/ExercisesTxt/03.lecture-41-challenge.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/ExecuteProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercies/ExecuteProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/Exercise03/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercies/Exercise03/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/ExercisesTxt/01.lecture-37-challenge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercies/AExercisesTxt/01.lecture-37-challenge.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/ExercisesTxt/02.lecture-38-challenge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercies/AExercisesTxt/02.lecture-38-challenge.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercies/ExercisesTxt/03.lecture-41-challenge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercies/AExercisesTxt/03.lecture-41-challenge.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a0afe7d1-19fe-45a6-abd2-ce3e645ec78d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Exercies/ExecuteProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="35" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="35" />
+            <state relative-caret-position="300">
+              <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -259,7 +241,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547139799009" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547140879565" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -377,18 +359,17 @@
       <workItem from="1547055795604" duration="1371000" />
       <workItem from="1547057535240" duration="1118000" />
       <workItem from="1547060741904" duration="1859000" />
-      <workItem from="1547131845304" duration="7311000" />
+      <workItem from="1547131845304" duration="8026000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20174000" />
+    <option name="totallyTimeSpent" value="20889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1438" y="98" width="1924" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15741728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15741728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32845187" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32845187" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -735,8 +716,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercies/ExecuteProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="35" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="35" />
+        <state relative-caret-position="300">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
