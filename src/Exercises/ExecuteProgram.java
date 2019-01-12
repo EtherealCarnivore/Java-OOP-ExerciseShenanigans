@@ -83,12 +83,18 @@ public class ExecuteProgram {
 
                 HealthyBurger imsocool = new HealthyBurger(hambugerName, bread, meat, toppings);
                 imsocool.calculatePrice(toppingsCount);
+                System.out.println("The healthy burger comes with " + imsocool.getBreadType() + " bread!");
                 System.out.println("You added " + toppings + " to your burger");
+                break;
 
             case "Deluxe":
                 DeluxeHamburger bigmoney = new DeluxeHamburger(hambugerName, bread, meat, toppings);
                 bigmoney.calculatePrice();
                 System.out.println("You also ordered " + toppings + " with your burger");
+                break;
+                default:
+                    System.out.println("There is no such burgerino, go backerino");
+                break;
         }
 
 

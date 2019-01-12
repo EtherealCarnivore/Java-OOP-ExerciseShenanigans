@@ -13,6 +13,6 @@ public class HealthyBurger extends Hamburger {
          int totalPrice;
          totalPrice = getPrice() + extra * getExtraPrice();
         System.out.println("That will be " + totalPrice + ", the burger " + getName() + " costs " + getPrice()+
-                " and you added 6 toppings which are charged 1$ and amount to " + (extra * getExtraPrice()));
+                " and you added " + extra + " toppings which are charged 1$ and amount to " + (extra * getExtraPrice()));
     }
 }
