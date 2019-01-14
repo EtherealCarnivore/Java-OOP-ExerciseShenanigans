@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0afe7d1-19fe-45a6-abd2-ce3e645ec78d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Exercises/ExecuteProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/ExecuteProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/koceto_project/Exercises/AExercisesTxt/08.lecture-72-challenge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/koceto_project/Exercises/Exercise08_Interface/Champions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/koceto_project/Exercises/Exercise08_Interface/Enemy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/koceto_project/Exercises/Exercise08_Interface/ISave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/koceto_project/Exercises/Exercise08_Interface/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/AExercisesTxt/08.lecture-72-challenge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Champions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise08_Interface/ISave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise08_Interface/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/carnivore.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/carnivore.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/ExecuteProgram.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/AExercisesTxt/08.lecture-72-challenge.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+            <state relative-caret-position="-115">
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,80 +46,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/AExercisesTxt/Exercise01to06">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Enemy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/AExercisesTxt/07.lecture-50-challenge.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="111" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="111" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/Hamburger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+            <state relative-caret-position="363">
+              <caret line="51" column="110" selection-start-line="51" selection-start-column="110" selection-end-line="51" selection-end-column="110" />
               <folding>
-                <element signature="e#1005#1006#0" expanded="true" />
-                <element signature="e#1032#1033#0" expanded="true" />
-                <element signature="e#1072#1073#0" expanded="true" />
-                <element signature="e#1104#1105#0" expanded="true" />
-                <element signature="e#1140#1141#0" expanded="true" />
-                <element signature="e#1172#1173#0" expanded="true" />
-                <element signature="e#1222#1223#0" expanded="true" />
-                <element signature="e#1264#1265#0" expanded="true" />
-                <element signature="e#1299#1300#0" expanded="true" />
-                <element signature="e#1330#1331#0" expanded="true" />
-                <element signature="e#1378#1379#0" expanded="true" />
-                <element signature="e#1418#1419#0" expanded="true" />
-                <element signature="e#1454#1455#0" expanded="true" />
-                <element signature="e#1486#1487#0" expanded="true" />
-                <element signature="e#1536#1537#0" expanded="true" />
-                <element signature="e#1578#1579#0" expanded="true" />
-                <element signature="e#1607#1608#0" expanded="true" />
-                <element signature="e#1635#1636#0" expanded="true" />
-                <element signature="e#1674#1675#0" expanded="true" />
-                <element signature="e#1708#1709#0" expanded="true" />
-                <element signature="e#1737#1738#0" expanded="true" />
-                <element signature="e#1765#1766#0" expanded="true" />
-                <element signature="e#1804#1805#0" expanded="true" />
-                <element signature="e#1838#1839#0" expanded="true" />
-                <element signature="e#1872#1873#0" expanded="true" />
-                <element signature="e#1905#1906#0" expanded="true" />
-                <element signature="e#1954#1955#0" expanded="true" />
-                <element signature="e#1998#1999#0" expanded="true" />
-                <element signature="e#2032#2033#0" expanded="true" />
-                <element signature="e#2065#2066#0" expanded="true" />
-                <element signature="e#2114#2115#0" expanded="true" />
-                <element signature="e#2158#2159#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/HealthyBurger.java">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/Scanner.class">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#42891#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/DeluxeHamburger.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Champions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="600">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,6 +113,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -120,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Control_Flow_Statements/Switch.java" />
         <option value="$PROJECT_DIR$/src/Control_Flow_Statements/For.java" />
         <option value="$PROJECT_DIR$/src/Control_Flow_Statements/While.java" />
         <option value="$PROJECT_DIR$/src/Control_Flow_Statements/user_input.java" />
@@ -168,13 +171,17 @@
         <option value="$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/DeluxeHamburger.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/HealthyBurger.java" />
         <option value="$PROJECT_DIR$/src/Exercises/ExecuteProgram.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise08_Interface/ISave.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Champions.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise08_Interface/main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1438" />
     <option name="width" value="1924" />
-    <option name="height" value="1055" />
+    <option name="height" value="1082" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,8 +191,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,14 +216,7 @@
               <item name="koceto_project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="AExercisesTxt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koceto_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koceto_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise07MasterChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise08_Interface" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="koceto_project" type="b2602c69:ProjectViewProjectNode" />
@@ -239,8 +239,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547302263470" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547487712209" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../koceto_project2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -265,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExecuteProgram (1)">
+  <component name="RunManager" selected="Application.main (2)">
     <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercies.Execute" />
       <module name="koceto_project" />
@@ -305,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_Polymorphism.main" />
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Exercise08_Interface.main" />
       <module name="koceto_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_Polymorphism.*" />
+          <option name="PATTERN" value="Exercises.Exercise08_Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.ExecuteProgram (1)" />
         <item itemvalue="Application.ExecuteProgram" />
         <item itemvalue="Application.Execute" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -361,17 +361,18 @@
       <workItem from="1547214697942" duration="187000" />
       <workItem from="1547214906293" duration="7195000" />
       <workItem from="1547296206280" duration="6057000" />
+      <workItem from="1547477161885" duration="10549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34328000" />
+    <option name="totallyTimeSpent" value="44877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1438" y="98" width="1924" height="1082" extended-state="6" />
+    <frame x="1438" y="0" width="1924" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14834578" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14994664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -455,31 +456,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Control_Flow_Statements/Switch.java" />
-    <entry file="file://$PROJECT_DIR$/src/Control_Flow_Statements/While.java" />
-    <entry file="file://$PROJECT_DIR$/src/Control_Flow_Statements/user_input.java" />
-    <entry file="file://$PROJECT_DIR$/src/OOP_Polymorphism/printDistribution.java" />
-    <entry file="file://$PROJECT_DIR$/src/OOP_Polymorphism/Cricle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Inharitance/Classes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Control_Flow_Statements/For.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercies/main.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercies/Exercise01/BankAccount.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercies/Exercise02/VipCustomer.java" />
@@ -667,13 +643,14 @@
     <entry file="file://$PROJECT_DIR$/src/Exercises/AExercisesTxt/06.lecture-49-challenge.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/DeluxeBurger.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/AExercisesTxt/07.lecture-50-challenge.txt">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/DeluxeBurger.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exercises/ExecuteProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="111" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="111" />
+        <state relative-caret-position="754">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -684,10 +661,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/AExercisesTxt/07.lecture-50-challenge.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="111" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/Hamburger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
           <folding>
             <element signature="e#1005#1006#0" expanded="true" />
             <element signature="e#1032#1033#0" expanded="true" />
@@ -725,24 +709,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/DeluxeHamburger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/HealthyBurger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/ExecuteProgram.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise07MasterChallenge/DeluxeHamburger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Pokemons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/ISave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Groceries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/AExercisesTxt/08.lecture-72-challenge.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Enemies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar!/java/util/Scanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#42891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Champions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/Enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="51" column="110" selection-start-line="51" selection-start-column="110" selection-end-line="51" selection-end-column="110" />
+          <folding>
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise08_Interface/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
