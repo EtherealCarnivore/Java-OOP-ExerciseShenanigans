@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0afe7d1-19fe-45a6-abd2-ce3e645ec78d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/CustomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,38 +18,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/AExercisesTxt/09.lecture-78-challenge.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Album.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="26" column="51" lean-forward="true" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+            <state relative-caret-position="345">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/ListItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1211#1212#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/main.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="585">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#394#400#0" expanded="true" />
-                <element signature="e#873#879#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/CustomList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="60" column="46" lean-forward="true" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/NodeList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -56,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Song.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
               <folding>
                 <element signature="e#265#266#0" expanded="true" />
                 <element signature="e#293#294#0" expanded="true" />
@@ -83,11 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OOP_Inharitance/Lamborgini.java" />
-        <option value="$PROJECT_DIR$/src/OOP_Inharitance/Car.java" />
-        <option value="$PROJECT_DIR$/src/OOP_Inharitance/Classes.java" />
-        <option value="$PROJECT_DIR$/src/OOP_Composition/CPU.java" />
-        <option value="$PROJECT_DIR$/src/OOP_Composition/PSU.java" />
         <option value="$PROJECT_DIR$/src/OOP_Composition/Motherboard.java" />
         <option value="$PROJECT_DIR$/src/OOP_Composition/main.java" />
         <option value="$PROJECT_DIR$/src/OOP_Polymorphism/Triangle.java" />
@@ -134,6 +162,11 @@
         <option value="$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Song.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/main.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Album.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/ListItem.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/Node.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/NodeList.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/CustomList.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/main.java" />
       </list>
     </option>
   </component>
@@ -150,8 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,14 +206,7 @@
               <item name="koceto_project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="AExercisesTxt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koceto_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koceto_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise09_InnerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise10_Abstract_LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="koceto_project" type="b2602c69:ProjectViewProjectNode" />
@@ -200,15 +224,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547574439387" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547656786816" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../koceto_project2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -231,26 +258,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (1)">
+  <component name="RunManager" selected="Application.main (3)">
     <configuration name="ExecuteProgram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.ExecuteProgram" />
       <module name="koceto_project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExecuteProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercies.ExecuteProgram" />
-      <module name="koceto_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercies.Exercise01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,6 +298,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Exercise10_Abstract_LinkedList.main" />
+      <module name="koceto_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.Exercise10_Abstract_LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_Composition.main" />
       <module name="koceto_project" />
@@ -299,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (3)" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.ExecuteProgram (1)" />
-        <item itemvalue="Application.ExecuteProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -328,18 +355,19 @@
       <workItem from="1547214906293" duration="7195000" />
       <workItem from="1547296206280" duration="6057000" />
       <workItem from="1547477161885" duration="11149000" />
-      <workItem from="1547568508921" duration="5926000" />
+      <workItem from="1547568508921" duration="5992000" />
+      <workItem from="1547650693785" duration="5029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51403000" />
+    <option name="totallyTimeSpent" value="56498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1438" y="0" width="1924" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15154749" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15314835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -423,35 +451,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OOP_Inharitance/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercies/Exercise03/SpecificCar.java" />
-    <entry file="file://$PROJECT_DIR$/src/OOP_Composition/PSU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Composition/Motherboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercies/Exercise03/Car.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercies/Exercise03/Vehicle.java" />
     <entry file="file://$PROJECT_DIR$/src/OOP_Composition/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -753,10 +752,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Song.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
           <folding>
             <element signature="e#265#266#0" expanded="true" />
             <element signature="e#293#294#0" expanded="true" />
@@ -766,26 +775,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/main.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Album.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="750">
+          <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#394#400#0" expanded="true" />
-            <element signature="e#873#879#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise09_InnerClass/Album.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="26" column="51" lean-forward="true" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+        <state relative-caret-position="585">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/ListItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/NodeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/CustomList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="60" column="46" lean-forward="true" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Exercise10_Abstract_LinkedList/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
